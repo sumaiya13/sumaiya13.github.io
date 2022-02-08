@@ -1720,7 +1720,7 @@ nav {
 .secondbox:after {
     content: '';
     position: absolute;
-    right: 247px;
+    right: 246px;
     bottom: 0px;
     width: 0;
     height: 0;
@@ -1752,6 +1752,7 @@ nav {
     height: max-content;
     margin-top: 51%;
     padding-bottom: 30px;
+    margin-left:10px
 }
 .reviewbox {
     width: 247px;
@@ -1890,7 +1891,7 @@ nav {
 .linksprivacy {
     display: inline-flex;
     list-style: none;
-    margin-left: -56px;
+    margin-left: -31px;
     margin-top: 50px;
 }
 .section_10 {
