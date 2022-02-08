@@ -1459,7 +1459,7 @@ nav {
     padding-bottom: 7%;
     background-color: #FED699;
     width: 100%;
-    height: 70vh;
+    height: 80vh;
     margin-bottom: 4%;
 }
 .section_4 {
@@ -1635,9 +1635,9 @@ nav {
     margin-top: -127px;
 }
 .sec9img {
-    width: 105%;
+    width: 111%;
     height: 272px;
-    margin-left: -3px;
+    margin-left: -10px;
 }
 .contactsec button {
     border: none;
