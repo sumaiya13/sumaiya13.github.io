@@ -616,10 +616,10 @@ nav .fa{
     content: "";
     display: block;
     position: absolute;
-    width: 0.2rem;
-    background: #303030;
+    width: 0.1rem;
+    background: #00A57E;
     border-radius: 0.4rem;
-    height: 1.333333rem;
+    height: 1rem;
     top: 0;
     bottom: 0;
     left: 0;
@@ -628,8 +628,8 @@ nav .fa{
     transition: all 0.3s ease;
 }
 .plus-toggle > label:after {
-    width: 1.5rem;
-    height: 0.2rem;
+    width: 1rem;
+    height: 0.1rem;
 }
 .plus-toggle > input {
   height: 0;
@@ -660,10 +660,10 @@ nav .fa{
     content: "";
     display: block;
     position: absolute;
-    width: 0.2rem;
-    background: #303030;
+    width: 0.1rem;
+    background: #00A57E;
     border-radius: 0.4rem;
-    height: 1.333333rem;
+    height: 1rem;
     top: 0;
     bottom: 0;
     left: 0;
@@ -672,8 +672,8 @@ nav .fa{
     transition: all 0.3s ease;
 }
 .plus-toggle1 > label:after {
-    width: 1.5rem;
-    height: 0.2rem;
+    width: 1rem;
+    height: 0.1rem;
 }
 .plus-toggle1 > input {
   height: 0;
@@ -703,10 +703,10 @@ nav .fa{
     content: "";
     display: block;
     position: absolute;
-    width: 0.2rem;
-    background: #303030;
+    width: 0.1rem;
+    background: #00A57E;
     border-radius: 0.4rem;
-    height: 1.333333rem;
+    height: 1rem;
     top: 0;
     bottom: 0;
     left: 0;
@@ -715,8 +715,8 @@ nav .fa{
     transition: all 0.3s ease;
 }
 .plus-toggle2 > label:after {
-    width: 1.5rem;
-    height: 0.2rem;
+    width: 1rem;
+    height: 0.1rem;
 }
 .plus-toggle2 > input {
   height: 0;
@@ -746,10 +746,10 @@ nav .fa{
     content: "";
     display: block;
     position: absolute;
-    width: 0.2rem;
-    background: #303030;
+    width: 0.1rem;
+    background: #00A57E;
     border-radius: 0.4rem;
-    height: 1.333333rem;
+    height: 1rem;
     top: 0;
     bottom: 0;
     left: 0;
@@ -758,8 +758,8 @@ nav .fa{
     transition: all 0.3s ease;
 }
 .plus-toggle3 > label:after {
-    width: 1.5rem;
-    height: 0.2rem;
+    width: 1rem;
+    height: 0.1rem;
 }
 .plus-toggle3 > input {
   height: 0;
@@ -789,10 +789,10 @@ nav .fa{
     content: "";
     display: block;
     position: absolute;
-    width: 0.2rem;
-    background: #303030;
+    width: 0.1rem;
+    background: #00A57E;
     border-radius: 0.4rem;
-    height: 1.333333rem;
+    height: 1rem;
     top: 0;
     bottom: 0;
     left: 0;
@@ -801,8 +801,8 @@ nav .fa{
     transition: all 0.3s ease;
 }
 .plus-toggle4 > label:after {
-    width: 1.5rem;
-    height: 0.2rem;
+   width: 1rem;
+    height: 0.1rem;
 }
 .plus-toggle4 > input {
   height: 0;
@@ -832,10 +832,10 @@ nav .fa{
     content: "";
     display: block;
     position: absolute;
-    width: 0.2rem;
-    background: #303030;
+    width: 0.1rem;
+    background: #00A57E;
     border-radius: 0.4rem;
-    height: 1.333333rem;
+    height: 1rem;
     top: 0;
     bottom: 0;
     left: 0;
@@ -844,8 +844,8 @@ nav .fa{
     transition: all 0.3s ease;
 }
 .plus-toggle5 > label:after {
-    width: 1.5rem;
-    height: 0.2rem;
+    width: 1rem;
+    height: 0.1rem;
 }
 .plus-toggle5 > input {
   height: 0;
@@ -875,10 +875,10 @@ nav .fa{
     content: "";
     display: block;
     position: absolute;
-    width: 0.2rem;
-    background: #303030;
+    width: 0.1rem;
+    background: #00A57E;
     border-radius: 0.4rem;
-    height: 1.333333rem;
+    height: 1rem;
     top: 0;
     bottom: 0;
     left: 0;
@@ -887,8 +887,8 @@ nav .fa{
     transition: all 0.3s ease;
 }
 .plus-toggle6 > label:after {
-    width: 1.5rem;
-    height: 0.2rem;
+    width: 1rem;
+    height: 0.1rem;
 }
 .plus-toggle6 > input {
   height: 0;
@@ -918,10 +918,10 @@ nav .fa{
     content: "";
     display: block;
     position: absolute;
-    width: 0.2rem;
-    background: #303030;
+    width: 0.1rem;
+    background: #00A57E;
     border-radius: 0.4rem;
-    height: 1.333333rem;
+    height: 1rem;
     top: 0;
     bottom: 0;
     left: 0;
@@ -930,8 +930,8 @@ nav .fa{
     transition: all 0.3s ease;
 }
 .plus-toggle7 > label:after {
-    width: 1.5rem;
-    height: 0.2rem;
+    width: 1rem;
+    height: 0.1rem;
 }
 .plus-toggle7 > input {
   height: 0;
@@ -961,10 +961,10 @@ nav .fa{
     content: "";
     display: block;
     position: absolute;
-    width: 0.2rem;
-    background: #303030;
+    width: 0.1rem;
+    background: #00A57E;
     border-radius: 0.4rem;
-    height: 1.333333rem;
+    height: 1rem;
     top: 0;
     bottom: 0;
     left: 0;
@@ -973,8 +973,8 @@ nav .fa{
     transition: all 0.3s ease;
 }
 .plus-toggle8 > label:after {
-    width: 1.5rem;
-    height: 0.2rem;
+    width: 1rem;
+    height: 0.1rem;
 }
 .plus-toggle8 > input {
   height: 0;
@@ -1004,10 +1004,10 @@ nav .fa{
     content: "";
     display: block;
     position: absolute;
-    width: 0.2rem;
-    background: #303030;
+    width: 0.1rem;
+    background: #00A57E;
     border-radius: 0.4rem;
-    height: 1.333333rem;
+    height: 1rem;
     top: 0;
     bottom: 0;
     left: 0;
@@ -1016,8 +1016,8 @@ nav .fa{
     transition: all 0.3s ease;
 }
 .plus-toggle9 > label:after {
-    width: 1.5rem;
-    height: 0.2rem;
+    width: 1rem;
+    height: 0.1rem;
 }
 .plus-toggle9 > input {
   height: 0;
