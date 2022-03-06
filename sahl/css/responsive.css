@@ -727,7 +727,7 @@ nav ul li a {
 
 }
 @media screen 
-  and (min-device-width: 320px) 
+  and (min-device-width: 300px) 
   and (max-device-width: 480px) 
   and (-webkit-min-device-pixel-ratio: 1){
 
@@ -798,7 +798,7 @@ nav ul li a {
     /*margin-left: 99px;*/
 }
 .header-text {
-    width: 90%;
+    width: 86%;
     margin-left: -1px;
 
 }
@@ -823,7 +823,7 @@ nav ul li a {
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover;
-    margin-bottom: -51px;
+    margin-bottom: 0px;
     margin-top: 25px;
 }
 .sec2-left p {
@@ -846,7 +846,7 @@ nav ul li a {
     width: 40px;
     height: 2px;
     background-color: #0F78A2;
-    display: block;
+    display: none;
     margin: -23px 0px 0px 328px;
 }
 .sec5-left h3 {
@@ -879,13 +879,13 @@ nav ul li a {
 }
 .sec3-box {
     display: flex;
-    width: 321px;
-    margin-bottom: 15px;
-    height: 102px;
+    width: 326px;
+    margin-bottom: 14px;
+    height: 140px;
     background-color: rgba(255, 255, 255, 0.5);
     border-radius: 26px;
-    padding: 26px;
-    margin-left: 11px;
+    padding: 33px;
+    margin-left: 7px;
 }
 .sec3-Why {
     padding-top: 70px;
@@ -916,12 +916,12 @@ nav ul li a {
 .section-4 {
     width: 100%;
     padding-top: 60px;
-    background-image: url(../img/sec4background.png);
+    background-image: none;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    height: 70vh;
-    margin-bottom: 75px;
+    height: 93vh;
+    margin-bottom: 2px;
     margin-top: 0px;
 }
 .sec6-left h1 {
@@ -930,11 +930,11 @@ nav ul li a {
 }
 .sec6-left h1:after {
     content: '';
-    width: 45px;
+    width: 28px;
     height: 2.1px;
     background-color: #178896;
     display: block;
-    margin: -22px 0px 60px 318px;
+    margin: -22px 0px 60px 312px;
 }
 .sec6-left p {
     font-size: 16px;
@@ -995,11 +995,11 @@ nav ul li a {
     display: none;
 }
 .sec4-left h1 {
-    font-size: 42px;
+    font-size: 40px;
 }
 .sec4-buttons img {
     width: 162px;
-    margin-right: 14px;
+    margin-right: 6px;
 }
 .sec4-right img {
     width: 96%;
@@ -1042,12 +1042,37 @@ nav ul li a {
 }
 .section-7 {
     width: 100%;
-    height: 59vh;
+    height: 50vh;
     background: linear-gradient(185deg, rgba(25,151,107,1) 16%, rgba(10,140,130,1) 68%, rgba(0,133,148,1) 100%);
     padding-top: 50px;
 }
 .location img {
     width: 23px;
     height: 26px;
+}
+.sec4-buttons {
+    display: inline-flex;
+    margin-top: 45px;
+    width: 92%;
+}
+.sec3-box img {
+    width: 50px;
+    height: 50px;
+}
+.header {
+    /* width: 100%; */
+    background-color: #F5F5F5;
+    margin-bottom: 11px;
+    height: 102vh;
+}
+.sahl-story {
+    display: flex;
+    justify-content: space-between;
+    padding: 34px 0px 55px 0px;
+    margin: 0;
+}
+.table-5 {
+    width: 67%;
+    margin-top: 60px;
 }
 }
