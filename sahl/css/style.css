@@ -211,6 +211,7 @@ nav .fa{
     color: #00A57E;
     width: 100px;
     height: 30px;
+    background-color: #fff;
 }
 .sec2-left button:hover{
     color: #fff;
