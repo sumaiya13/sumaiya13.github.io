@@ -161,6 +161,9 @@ nav .fa{
     transition: 0.3s ease-in;
     
 }
+.sec1_buttons{
+    display: flex;
+}
 .section-2 {
     width: 100%;
     background-image: url(../img/sec2background.png);
@@ -232,8 +235,9 @@ nav .fa{
 }
 
 .myaccordion .card-header {
-  border-bottom-color: #EDEFF0;
+  border-bottom-color: #fff;
   background: transparent;
+  border: none;
 }
 
 .myaccordion .fa-stack {
@@ -298,6 +302,9 @@ nav .fa{
     border-radius: 35px;
     padding: 35px;
     margin-left: 109px;
+}
+.sec3-box img{
+    width: 25%;
 }
 .sec3-box p {
     color: #FFFFFF;
