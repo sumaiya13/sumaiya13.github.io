@@ -89,12 +89,12 @@ nav .fa{
    }
    .nav-links {
     position: fixed;
-    background: #0095A4;
+    background: #00A67F;
     text-align: left;
     top: 0;
-    right: -238px;
+    right: -190px;
     height: 100vh;
-    width: 238px;
+    width: 190px;
     z-index: 2;
     transition: 1s;
 }
