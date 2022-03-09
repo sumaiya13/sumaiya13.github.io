@@ -1425,5 +1425,9 @@ nav {
     justify-content: space-between;
     margin-bottom: 30px;
 }
+    .header_content img {
+    width: 100%;
+    margin-top: 0px;
+}
 
 }
