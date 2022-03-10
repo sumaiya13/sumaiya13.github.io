@@ -740,7 +740,7 @@ nav {
 .navigation {
     position: fixed;
     width: 100%;
-    background: rgba(204, 204, 204, 0.9);
+    background: rgba(245, 245, 245, 0.9);
     z-index: 2;
     padding-top: 12px;
     height: 10vh;
@@ -1110,7 +1110,7 @@ nav {
 .navigation {
     position: fixed;
     width: 100%;
-    background: rgba(204, 204, 204, 0.9);
+    background: rgba(245, 245, 245, 0.9);
     z-index: 2;
     padding-top: 8px;
     height: 6vh;
