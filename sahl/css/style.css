@@ -113,7 +113,10 @@ nav .fa{
     padding-left: 0px;
     padding-top: 57px;
 }
-
+.lang a{
+    text-decoration: none;
+    color: #000;
+}
 
 }
 .header-text{
