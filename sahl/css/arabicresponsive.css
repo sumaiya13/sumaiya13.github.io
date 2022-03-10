@@ -1535,6 +1535,7 @@ nav ul li a {
 .headerphone {
     display: block;
     padding-top: 58px;
+    background-color: #FCFCFC;
 }
 .header{
     display: none;
