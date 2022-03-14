@@ -723,6 +723,9 @@ nav .fa{
     font-size: 18px !important;
     font-weight: 300 !important;
 }
+.panel-default>.panel-heading{
+    background-color: #fff !important;
+}
 
 .glyphicon {
     position: relative !important;
