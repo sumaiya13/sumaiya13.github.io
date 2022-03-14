@@ -726,6 +726,9 @@ nav .fa{
 .panel-default>.panel-heading{
     background-color: #fff !important;
 }
+a:hover {
+    text-decoration: none !important;
+}
 
 .glyphicon {
     position: relative !important;
