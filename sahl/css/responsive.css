@@ -808,6 +808,11 @@ nav {
     margin-right: 18px;
     margin-top: -24px;
 }
+    .lang h5 {
+    font-size: 15px;
+    color: #0095A4;
+    margin-top: 2px;
+}
 
 
 }
@@ -1207,6 +1212,11 @@ nav {
 .section-4phone p{
     padding-right: 110px;
 }
+    .lang h5 {
+    font-size: 15px;
+    color: #0095A4;
+    margin-top: 2px;
+}
 
 }
 
@@ -1267,6 +1277,7 @@ nav ul li a {
 .lang h5 {
     font-size: 15px;
     color: #0095A4;
+    margin-top: 2px;
 }
 
 .myaccordion {
