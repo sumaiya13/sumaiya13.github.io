@@ -7,9 +7,10 @@
   .headerphone{
     display: none;
 }
- .header{
+ .header {
     display: block;
- }
+    padding-top: 90px;
+}
 .header_content p {
     color: #9F9F9F;
     font-size: 20px;
