@@ -1655,7 +1655,8 @@ nav ul li a {
     display: block;
     padding-top: 58px;
     background-color: #EBEBEB;
-    height: 93vh;
+    margin-bottom: 11px;
+    height: fit-content;
 }
 /*.header{
     display: none;
@@ -1705,6 +1706,7 @@ nav ul li a {
     margin-right: 0px;
     float: right;
     padding-right: 0px;
+    margin-bottom: 40px;
 }
 .header-text {
     width: 100%;
@@ -1918,7 +1920,7 @@ nav ul li a {
     display: flex;
     list-style: none;
     margin-top: 10px;
-    margin-left: -45px;
+    margin-left: -35px;
 }
 .downloadbt {
     margin-left: 6px;
@@ -2063,11 +2065,16 @@ nav {
     margin-top: 2px;
 }
 .panel-title {
-    font-size: 21px !important;
+    font-size: 19px !important;
     font-weight: 400;
 }
 .panel-body p{
     font-size: 16px !important;
     font-weight: 300 !important;
+}
+.location h4 {
+    font-size: 13px;
+    padding-right: 0px;
+    margin-left: 22px;
 }
 }
